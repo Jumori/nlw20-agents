@@ -52,12 +52,17 @@ Projeto desenvolvido durante o evento NLW da Rocketseat.
 
 - `npm run dev` — Inicia o servidor em modo desenvolvimento
 - `npm run start` — Executa o servidor em modo de produção
+- `npm run db:generate` — Gera artefatos do Drizzle ORM
+- `npm run db:migrate` — Executa as migrações do banco de dados
 - `npm run db:seed` — Roda o seed do banco de dados
 
 ## Endpoints Disponíveis
 
 - `GET /health` — Verifica o status da API
 - `GET /rooms` — Lista todas as salas disponíveis
+- `POST /rooms` — Cria uma nova sala
+- `GET /rooms/:roomId/questions` — Lista as perguntas de uma sala
+- `POST /rooms/:roomId/questions` — Cria uma nova pergunta em uma sala
 
 Outros endpoints podem ser adicionados conforme a evolução do projeto.
 
