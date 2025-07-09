@@ -8,6 +8,20 @@
       "when": 1751937882843,
       "tag": "0000_cool_madrox",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752028041525,
+      "tag": "0001_simple_thunderbolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752031864608,
+      "tag": "0002_quiet_phil_sheldon",
+      "breakpoints": true
     }
   ]
 }
