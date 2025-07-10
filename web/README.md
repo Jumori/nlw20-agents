@@ -8,9 +8,11 @@ Aplicação web desenvolvida em React + TypeScript, utilizando Vite para build e
 
 ## Tecnologias e Bibliotecas Utilizadas
 
-- [React](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Vite](https://vitejs.dev/)
+- [React](https://react.dev/) — Biblioteca para construção de interfaces
+- [TypeScript](https://www.typescriptlang.org/) — Tipagem estática para JavaScript
+- [Vite](https://vitejs.dev/) — Bundler e servidor de desenvolvimento rápido
+- [React Router DOM](https://reactrouter.com/) — Gerenciamento de rotas
+- [Tailwind CSS](https://tailwindcss.com/) — Utilitários de CSS para estilização
 
 ## Padrões de Projeto
 
