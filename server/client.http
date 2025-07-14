@@ -25,7 +25,7 @@ Content-Type: application/json
 
 ###
 
-@roomId = {{getRooms.response.body.$.[0].id}}
+@roomId = {{createRoom.response.body.$.roomId}}
 
 ###
 
